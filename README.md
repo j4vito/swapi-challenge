@@ -39,7 +39,7 @@ A microservice that integrates with the Star Wars API (SWAPI), providing caching
 
    The API will automatically apply database migrations on startup.
 
-3. **Access the API**
+3. **Access the API Documentation**
    - Swagger UI: [http://localhost:8080/swagger](http://localhost:8080/swagger)
 
 4. **Run the Console Client**
