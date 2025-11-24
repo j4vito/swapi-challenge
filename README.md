@@ -25,7 +25,7 @@ A microservice that integrates with the Star Wars API (SWAPI), providing caching
 
 1. **Clone the repository**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/j4vito/swapi-challenge.git
    cd StarWars
    ```
 
